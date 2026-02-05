@@ -2,6 +2,12 @@
 
 Sahaay AI is an AI-powered, voice-first civic access assistant designed to help Indian citizens access government schemes and public services. The system addresses critical barriers including language limitations, low digital literacy, and fragmented information across government portals.
 
+## 📋 Key Documents for Hackathon Submission
+
+- **[REQUIREMENTS.md](./REQUIREMENTS.md)** - Complete requirements with 10 user stories and 50 acceptance criteria
+- **[DESIGN.md](./DESIGN.md)** - Technical architecture and system design overview
+- **[README.md](./README.md)** - This file with project overview and setup instructions
+
 ## Features
 
 - **Voice-First Interaction**: Natural language interaction in 5 major Indian languages (Hindi, English, Tamil, Telugu, Bengali)
